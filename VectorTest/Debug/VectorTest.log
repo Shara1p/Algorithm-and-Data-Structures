@@ -1,0 +1,3 @@
+﻿  ViktorCPP.cpp
+C:\Users\nerdy\source\repos\VectorTest\VectorTest\ViktorCPP.cpp(56,23): warning C4018: <: несоответствие типов со знаком и без знака
+  VectorTest.vcxproj -> C:\Users\nerdy\source\repos\VectorTest\Debug\VectorTest.exe
