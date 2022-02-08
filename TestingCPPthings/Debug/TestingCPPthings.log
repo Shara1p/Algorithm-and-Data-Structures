@@ -1,0 +1,3 @@
+﻿  TestingCPPthings.cpp
+C:\Users\nerdy\source\repos\TestingCPPthings\TestingCPPthings\TestingCPPthings.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+  TestingCPPthings.vcxproj -> C:\Users\nerdy\source\repos\TestingCPPthings\Debug\TestingCPPthings.exe
