@@ -1,0 +1,5 @@
+﻿  Vector.cpp
+  vectorRealisation.cpp
+C:\Users\nerdy\source\repos\Vector\Vector\vectorRealisation.cpp(56,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Vector.vcxproj -> C:\Users\nerdy\source\repos\Vector\Debug\Vector.exe
