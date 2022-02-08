@@ -1,0 +1,3 @@
+﻿  SubStr.cpp
+C:\Users\nerdy\source\repos\SubStr\SubStr\SubStr.cpp(5,23): warning C4018: <: несоответствие типов со знаком и без знака
+  SubStr.vcxproj -> C:\Users\nerdy\source\repos\SubStr\Debug\SubStr.exe
