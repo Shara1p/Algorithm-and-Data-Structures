@@ -1,0 +1,3 @@
+﻿  Vector.cpp
+C:\Users\nerdy\source\repos\Stack\Stack\Vector.cpp(59,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Stack.vcxproj -> C:\Users\nerdy\source\repos\Stack\Debug\Stack.exe
