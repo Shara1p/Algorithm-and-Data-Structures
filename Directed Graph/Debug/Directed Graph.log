@@ -1,0 +1,5 @@
+﻿  Directed Graph.cpp
+  Test.cpp
+  Создание кода...
+C:\Users\nerdy\source\repos\Directed Graph\Directed Graph\Directed Graph.cpp(96): warning C4715: Graph::GetEdge: значение возвращается не при всех путях выполнения
+  Directed Graph.vcxproj -> C:\Users\nerdy\source\repos\Directed Graph\Debug\Directed Graph.exe
