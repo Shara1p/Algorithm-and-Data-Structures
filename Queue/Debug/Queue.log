@@ -1,0 +1,6 @@
+﻿  Queue.cpp
+C:\Users\nerdy\source\repos\Queue\Queue\Queue.cpp(55,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nerdy\source\repos\Queue\Queue\Queue.cpp(56,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nerdy\source\repos\Queue\Queue\Queue.cpp(91,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nerdy\source\repos\Queue\Queue\Queue.cpp(92,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Queue.vcxproj -> C:\Users\nerdy\source\repos\Queue\Debug\Queue.exe

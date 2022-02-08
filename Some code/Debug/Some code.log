@@ -1,0 +1,4 @@
+﻿  Some code.cpp
+C:\Users\nerdy\source\repos\Some code\Some code\Some code.cpp(10,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nerdy\source\repos\Some code\Some code\Some code.cpp(24,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Some code.vcxproj -> C:\Users\nerdy\source\repos\Some code\Debug\Some code.exe
