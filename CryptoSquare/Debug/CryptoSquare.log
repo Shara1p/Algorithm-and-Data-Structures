@@ -1,0 +1,7 @@
+﻿  CryptoSquare.cpp
+C:\Users\nerdy\source\repos\CryptoSquare\CryptoSquare\CryptoSquare.cpp(6,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nerdy\source\repos\CryptoSquare\CryptoSquare\CryptoSquare.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nerdy\source\repos\CryptoSquare\CryptoSquare\CryptoSquare.cpp(21,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nerdy\source\repos\CryptoSquare\CryptoSquare\CryptoSquare.cpp(29,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nerdy\source\repos\CryptoSquare\CryptoSquare\CryptoSquare.cpp(40,19): warning C4018: <: несоответствие типов со знаком и без знака
+  CryptoSquare.vcxproj -> C:\Users\nerdy\source\repos\CryptoSquare\Debug\CryptoSquare.exe
